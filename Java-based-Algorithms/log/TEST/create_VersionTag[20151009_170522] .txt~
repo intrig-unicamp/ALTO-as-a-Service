@@ -1,0 +1,19 @@
+Start
+start function: create_VersionTag [20151009_170522] 
+Time (ms),869
+Execution time,00h:00m:01s:252ms
+Execution time (ms),1252
+End function,create_VersionTag
+start function: create_Relationships_PID_EndPoint [20151009_170524] 
+java.io.FileNotFoundException: InputData/ALTO/AS/20141208/TEST/Matrix_AS_Prefix_IPv4.csv.gz (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at intrig.AaaS.Creating.ALTO.Information.Main.create_Relationships_PID_EndPoint(Main.java:231)
+	at intrig.AaaS.Creating.ALTO.Information.Main.main(Main.java:70)
+
+Execution time,00h:00m:00s:2ms
+Execution time (ms),2
+End function,main
+End

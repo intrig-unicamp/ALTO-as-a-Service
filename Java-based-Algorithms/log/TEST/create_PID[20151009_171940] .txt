@@ -1,0 +1,30 @@
+Start
+start function: create_PID [20151009_171940] 
+Time (ms),925
+Time (ms),48
+Time (ms),41
+Time (ms),52
+Time (ms),82
+Time (ms),42
+Time (ms),42
+Time (ms),43
+Time (ms),41
+Time (ms),43
+Time (ms),42
+Time (ms),39
+Time (ms),40
+Time (ms),41
+Time (ms),47
+Time (ms),43
+Time (ms),41
+Time (ms),46
+Time (ms),34
+Time (ms),40
+Time (ms),46
+Total PIDs,21
+Total time (ms),893,discarding first
+AVG time (ms),44.650,discarding first => Total time/(Total PIDs - 1)
+Execution time,00h:00m:03s:364ms
+Execution time (ms),3364
+End function,create_PID
+End

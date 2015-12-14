@@ -1,0 +1,9 @@
+Start
+start function: TotalAS [20151009_164237] 
+TEST
+File was created successfully !!!
+Total ASes: 22
+Execution time: 00h:00m:00s:9ms
+Execution time (ms): 9
+End function: TotalAS
+End

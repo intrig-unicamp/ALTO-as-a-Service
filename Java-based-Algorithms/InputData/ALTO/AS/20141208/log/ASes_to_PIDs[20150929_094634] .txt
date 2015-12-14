@@ -1,0 +1,12 @@
+Start
+start function: ASes_to_PIDs [20150929_094634] 
+File was created successfully !!!
+Total ASes: 49586
+Total ASes Considered: 48962
+ASes Considered (PCT): 98.742
+ASes OUT: 624
+ASes OUT (PCT): 1.258
+Execution time: 00h:00m:05s:484ms
+Execution time (ms): 5484
+End function: ASes_to_PIDs
+End

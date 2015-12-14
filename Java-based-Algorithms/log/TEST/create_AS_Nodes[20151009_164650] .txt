@@ -1,0 +1,31 @@
+Start
+start function: create_AS_Nodes [20151009_164650] 
+Time (ms),894
+Time (ms),58
+Time (ms),50
+Time (ms),45
+Time (ms),41
+Time (ms),42
+Time (ms),47
+Time (ms),40
+Time (ms),49
+Time (ms),56
+Time (ms),49
+Time (ms),45
+Time (ms),44
+Time (ms),38
+Time (ms),44
+Time (ms),50
+Time (ms),46
+Time (ms),38
+Time (ms),46
+Time (ms),42
+Time (ms),43
+Time (ms),38
+Total Nodes,22
+Total time (ms),951//discarding first
+AVG time (ms),45.286,discarding first => Total time/(Total Nodes - 1)
+Execution time: 00h:00m:03s:410ms
+Execution time (ms): 3410
+End function: create_AS_Nodes
+End

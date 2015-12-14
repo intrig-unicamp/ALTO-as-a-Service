@@ -1,0 +1,30 @@
+Start
+start function: create_Relationships_VersionTag_PID [20151009_172024] 
+Time (ms),162
+Time (ms),54
+Time (ms),44
+Time (ms),41
+Time (ms),47
+Time (ms),45
+Time (ms),44
+Time (ms),41
+Time (ms),35
+Time (ms),36
+Time (ms),36
+Time (ms),36
+Time (ms),39
+Time (ms),36
+Time (ms),37
+Time (ms),217
+Time (ms),35
+Time (ms),36
+Time (ms),40
+Time (ms),35
+Time (ms),38
+Total Relationships,21
+Total time (ms),972,discarding first
+AVG time (ms),48.600,discarding first => Total time/(Total Rels - 1)
+Execution time,00h:00m:02s:790ms
+Execution time (ms),2790
+End function,create_Relationships_VersionTag_PID
+End

@@ -1,0 +1,8 @@
+Start
+start function: create_AddressType [20151009_170617] 
+Time (ms),132
+Time (ms),37
+Execution time,00h:00m:00s:575ms
+Execution time (ms),575
+End function,create_AddressType
+End

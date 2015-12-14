@@ -1,0 +1,568 @@
+Start
+start function: create_CostMap_AShops [20151127_105952] 
+SELECT execution time,CREATE execution time,TOTAL
+0,146,146
+65,39,104
+10,45,55
+8,43,51
+8,46,54
+8,41,49
+10,42,52
+12,38,50
+8,42,50
+13,71,84
+13,115,128
+6,72,78
+7,91,98
+7,70,77
+7,93,100
+NOT CONNECTION --> AS source: 1 AS Destination: 3943
+12,0,12
+9,1103,1112
+NOT CONNECTION --> AS source: 1 AS Destination: 28135
+7,0,7
+NOT CONNECTION --> AS source: 1 AS Destination: 52864
+8,0,8
+8,96,104
+8,109,117
+10,77,87
+0,107,107
+7,95,102
+9,67,76
+7,150,157
+10,72,82
+13,55,68
+9,46,55
+8,81,89
+11,69,80
+7,65,72
+7,137,144
+7,119,126
+9,47,56
+10,43,53
+NOT CONNECTION --> AS source: 27678 AS Destination: 3943
+7,0,7
+8,36,44
+NOT CONNECTION --> AS source: 27678 AS Destination: 28135
+10,0,10
+NOT CONNECTION --> AS source: 27678 AS Destination: 52864
+10,0,10
+23,42,65
+8,39,47
+7,40,47
+7,40,47
+0,40,40
+9,39,48
+11,35,46
+10,42,52
+8,36,44
+9,42,51
+17,39,56
+7,36,43
+8,35,43
+7,39,46
+8,40,48
+6,36,42
+7,36,43
+NOT CONNECTION --> AS source: 6 AS Destination: 3943
+7,0,7
+17,40,57
+NOT CONNECTION --> AS source: 6 AS Destination: 28135
+10,0,10
+NOT CONNECTION --> AS source: 6 AS Destination: 52864
+8,0,8
+6,40,46
+10,35,45
+8,41,49
+8,40,48
+9,42,51
+0,35,35
+8,62,70
+9,44,53
+8,42,50
+12,47,59
+7,37,44
+17,36,53
+8,38,46
+8,36,44
+8,40,48
+8,40,48
+7,43,50
+NOT CONNECTION --> AS source: 3 AS Destination: 3943
+6,0,6
+17,41,58
+NOT CONNECTION --> AS source: 3 AS Destination: 28135
+12,0,12
+NOT CONNECTION --> AS source: 3 AS Destination: 52864
+9,0,9
+12,41,53
+6,36,42
+6,33,39
+6,42,48
+8,42,50
+6,278,284
+0,37,37
+10,42,52
+11,40,51
+9,39,48
+7,41,48
+8,40,48
+7,41,48
+17,38,55
+8,39,47
+6,29,35
+7,38,45
+NOT CONNECTION --> AS source: 5 AS Destination: 3943
+6,0,6
+7,38,45
+NOT CONNECTION --> AS source: 5 AS Destination: 28135
+18,0,18
+NOT CONNECTION --> AS source: 5 AS Destination: 52864
+5,0,5
+7,35,42
+7,41,48
+9,44,53
+6,38,44
+7,35,42
+6,38,44
+7,39,46
+0,30,30
+6,33,39
+6,38,44
+6,31,37
+6,44,50
+10,38,48
+6,70,76
+7,41,48
+9,41,50
+13,41,54
+NOT CONNECTION --> AS source: 6057 AS Destination: 3943
+9,0,9
+10,39,49
+NOT CONNECTION --> AS source: 6057 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 6057 AS Destination: 52864
+6,0,6
+7,37,44
+7,36,43
+7,33,40
+6,26,32
+8,36,44
+7,42,49
+7,40,47
+6,35,41
+0,42,42
+7,33,40
+6,37,43
+12,42,54
+6,39,45
+6,41,47
+7,41,48
+7,43,50
+9,43,52
+NOT CONNECTION --> AS source: 7 AS Destination: 3943
+6,0,6
+6,39,45
+NOT CONNECTION --> AS source: 7 AS Destination: 28135
+18,0,18
+NOT CONNECTION --> AS source: 7 AS Destination: 52864
+12,0,12
+6,40,46
+6,40,46
+7,42,49
+6,42,48
+7,40,47
+6,36,42
+6,36,42
+6,39,45
+7,36,43
+0,41,41
+6,43,49
+6,38,44
+7,39,46
+6,43,49
+7,36,43
+7,25,32
+7,40,47
+NOT CONNECTION --> AS source: 27750 AS Destination: 3943
+7,0,7
+7,40,47
+NOT CONNECTION --> AS source: 27750 AS Destination: 28135
+8,0,8
+NOT CONNECTION --> AS source: 27750 AS Destination: 52864
+6,0,6
+7,27,34
+16,39,55
+8,42,50
+7,38,45
+6,36,42
+7,40,47
+21,39,60
+8,43,51
+6,65,71
+24,44,68
+0,38,38
+8,36,44
+7,26,33
+11,35,46
+6,42,48
+8,42,50
+6,37,43
+NOT CONNECTION --> AS source: 11537 AS Destination: 3943
+6,0,6
+8,39,47
+NOT CONNECTION --> AS source: 11537 AS Destination: 28135
+5,0,5
+NOT CONNECTION --> AS source: 11537 AS Destination: 52864
+8,0,8
+6,28,34
+7,26,33
+7,37,44
+7,66,73
+16,37,53
+7,42,49
+6,38,44
+7,34,41
+7,42,49
+7,42,49
+7,36,43
+0,32,32
+11,42,53
+8,37,45
+8,42,50
+14,34,48
+12,39,51
+NOT CONNECTION --> AS source: 9 AS Destination: 3943
+6,0,6
+8,41,49
+NOT CONNECTION --> AS source: 9 AS Destination: 28135
+5,0,5
+NOT CONNECTION --> AS source: 9 AS Destination: 52864
+6,0,6
+7,35,42
+6,40,46
+12,30,42
+7,858,865
+7,40,47
+6,43,49
+6,37,43
+16,39,55
+6,40,46
+7,41,48
+6,39,45
+9,40,49
+0,42,42
+6,35,41
+7,40,47
+7,43,50
+10,41,51
+NOT CONNECTION --> AS source: 3356 AS Destination: 3943
+8,0,8
+7,35,42
+NOT CONNECTION --> AS source: 3356 AS Destination: 28135
+5,0,5
+NOT CONNECTION --> AS source: 3356 AS Destination: 52864
+9,0,9
+6,41,47
+7,38,45
+10,41,51
+6,38,44
+6,36,42
+7,37,44
+8,42,50
+6,39,45
+7,38,45
+31,38,69
+16,36,52
+7,42,49
+9,42,51
+0,274,274
+6,44,50
+10,37,47
+7,40,47
+NOT CONNECTION --> AS source: 1853 AS Destination: 3943
+6,0,6
+6,38,44
+NOT CONNECTION --> AS source: 1853 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 1853 AS Destination: 52864
+7,0,7
+6,31,37
+9,40,49
+17,39,56
+7,36,43
+8,35,43
+6,37,43
+6,42,48
+6,40,46
+7,40,47
+7,43,50
+7,34,41
+6,37,43
+8,42,50
+11,41,52
+0,39,39
+7,18,25
+6,40,46
+NOT CONNECTION --> AS source: 10 AS Destination: 3943
+6,0,6
+7,31,38
+NOT CONNECTION --> AS source: 10 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 10 AS Destination: 52864
+6,0,6
+7,30,37
+8,32,40
+8,31,39
+10,32,42
+7,29,36
+7,33,40
+7,44,51
+6,26,32
+9,29,38
+6,35,41
+7,29,36
+6,31,37
+7,31,38
+6,31,37
+6,33,39
+0,32,32
+6,29,35
+NOT CONNECTION --> AS source: 18881 AS Destination: 3943
+10,0,10
+7,32,39
+NOT CONNECTION --> AS source: 18881 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 18881 AS Destination: 52864
+5,0,5
+6,30,36
+5,30,35
+6,31,37
+6,28,34
+6,32,38
+12,34,46
+7,32,39
+8,35,43
+6,35,41
+7,34,41
+17,31,48
+6,30,36
+5,35,40
+5,55,60
+8,31,39
+8,32,40
+0,32,32
+NOT CONNECTION --> AS source: 4 AS Destination: 3943
+6,0,6
+6,32,38
+NOT CONNECTION --> AS source: 4 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 4 AS Destination: 52864
+25,0,25
+9,29,38
+10,37,47
+NOT CONNECTION --> AS source: 3943 AS Destination: 1
+10,0,10
+NOT CONNECTION --> AS source: 3943 AS Destination: 27678
+8,0,8
+NOT CONNECTION --> AS source: 3943 AS Destination: 6
+9,0,9
+NOT CONNECTION --> AS source: 3943 AS Destination: 3
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 5
+7,0,7
+NOT CONNECTION --> AS source: 3943 AS Destination: 6057
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 7
+5,0,5
+NOT CONNECTION --> AS source: 3943 AS Destination: 27750
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 11537
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 9
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 3356
+10,0,10
+NOT CONNECTION --> AS source: 3943 AS Destination: 1853
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 10
+7,0,7
+NOT CONNECTION --> AS source: 3943 AS Destination: 18881
+9,0,9
+NOT CONNECTION --> AS source: 3943 AS Destination: 4
+6,0,6
+0,22,22
+NOT CONNECTION --> AS source: 3943 AS Destination: 8
+5,0,5
+NOT CONNECTION --> AS source: 3943 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 52864
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 200070
+6,0,6
+NOT CONNECTION --> AS source: 3943 AS Destination: 2
+6,0,6
+7,34,41
+18,36,54
+6,35,41
+8,30,38
+6,34,40
+6,34,40
+9,34,43
+7,34,41
+6,33,39
+6,29,35
+5,34,39
+6,34,40
+7,35,42
+6,30,36
+8,35,43
+NOT CONNECTION --> AS source: 8 AS Destination: 3943
+7,0,7
+0,28,28
+NOT CONNECTION --> AS source: 8 AS Destination: 28135
+6,0,6
+NOT CONNECTION --> AS source: 8 AS Destination: 52864
+7,0,7
+9,30,39
+5,33,38
+NOT CONNECTION --> AS source: 28135 AS Destination: 1
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 27678
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 6
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 3
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 5
+16,0,16
+NOT CONNECTION --> AS source: 28135 AS Destination: 6057
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 7
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 27750
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 11537
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 9
+7,0,7
+NOT CONNECTION --> AS source: 28135 AS Destination: 3356
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 1853
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 10
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 18881
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 4
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 3943
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 8
+6,0,6
+0,32,32
+NOT CONNECTION --> AS source: 28135 AS Destination: 52864
+5,0,5
+NOT CONNECTION --> AS source: 28135 AS Destination: 200070
+6,0,6
+NOT CONNECTION --> AS source: 28135 AS Destination: 2
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 1
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 27678
+7,0,7
+NOT CONNECTION --> AS source: 52864 AS Destination: 6
+9,0,9
+NOT CONNECTION --> AS source: 52864 AS Destination: 3
+5,0,5
+NOT CONNECTION --> AS source: 52864 AS Destination: 5
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 6057
+8,0,8
+NOT CONNECTION --> AS source: 52864 AS Destination: 7
+9,0,9
+NOT CONNECTION --> AS source: 52864 AS Destination: 27750
+16,0,16
+NOT CONNECTION --> AS source: 52864 AS Destination: 11537
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 9
+5,0,5
+NOT CONNECTION --> AS source: 52864 AS Destination: 3356
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 1853
+5,0,5
+NOT CONNECTION --> AS source: 52864 AS Destination: 10
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 18881
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 4
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 3943
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 8
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 28135
+5,0,5
+0,23,23
+NOT CONNECTION --> AS source: 52864 AS Destination: 200070
+6,0,6
+NOT CONNECTION --> AS source: 52864 AS Destination: 2
+5,0,5
+9,33,42
+9,33,42
+7,32,39
+6,31,37
+5,28,33
+7,34,41
+6,35,41
+7,32,39
+6,36,42
+6,31,37
+14,29,43
+5,34,39
+6,36,42
+15,32,47
+18,26,44
+NOT CONNECTION --> AS source: 200070 AS Destination: 3943
+6,0,6
+6,33,39
+NOT CONNECTION --> AS source: 200070 AS Destination: 28135
+9,0,9
+NOT CONNECTION --> AS source: 200070 AS Destination: 52864
+6,0,6
+0,29,29
+6,31,37
+6,29,35
+8,31,39
+12,124,136
+21,32,53
+6,66,72
+5,29,34
+6,30,36
+5,36,41
+7,34,41
+7,31,38
+5,32,37
+7,35,42
+5,29,34
+5,34,39
+13,35,48
+NOT CONNECTION --> AS source: 2 AS Destination: 3943
+6,0,6
+7,30,37
+NOT CONNECTION --> AS source: 2 AS Destination: 28135
+8,0,8
+NOT CONNECTION --> AS source: 2 AS Destination: 52864
+6,0,6
+6,37,43
+0,30,30
+Total AS Topology Queries,420
+Total time (ms),3306,discarding first
+AVG time (ms),7.890,discarding first => Total time/(Total AS Topology Queries - 1)
+Total COSTS relationships,327
+Total time (ms),15597,discarding first
+AVG time (ms),47.844,discarding first => Total time/(Total COSTS relationships - 1)
+Execution time,00h:01m:01s:493ms
+Execution time (ms),61493
+End function,create_CostMap_AShops
+End

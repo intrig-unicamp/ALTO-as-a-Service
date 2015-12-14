@@ -1,0 +1,7 @@
+Start
+start function: create_VersionTag [20151009_170522] 
+Time (ms),869
+Execution time,00h:00m:01s:252ms
+Execution time (ms),1252
+End function,main
+End

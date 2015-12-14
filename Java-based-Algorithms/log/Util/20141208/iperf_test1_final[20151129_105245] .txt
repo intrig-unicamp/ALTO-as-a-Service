@@ -1,0 +1,7 @@
+Start
+start function: test_mininet_iperf [20151129_105245] 
+File was created successfully !!!
+Execution time: 00h:00m:00s:172ms
+Execution time (ms): 172
+End function: test_mininet_iperf
+End

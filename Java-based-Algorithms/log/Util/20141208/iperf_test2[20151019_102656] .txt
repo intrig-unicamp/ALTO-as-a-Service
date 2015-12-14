@@ -1,0 +1,7 @@
+Start
+start function: test_mininet [20151019_102656] 
+File was created successfully !!!
+Execution time: 00h:00m:00s:45ms
+Execution time (ms): 45
+End function: test_mininet
+End

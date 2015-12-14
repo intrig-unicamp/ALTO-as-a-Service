@@ -1,0 +1,174 @@
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.ba.ptt.br-BGP.txt"...
+Start time file: 19:50:14 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.ba.ptt.br-BGP.rib.csv.gz" created.
+End time file: 22:25:00 
+Total execution time file: 2.579306 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.bel.ptt.br-BGP.txt"...
+Start time file: 22:25:00 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.bel.ptt.br-BGP.rib.csv.gz" created.
+End time file: 22:39:10 
+Total execution time file: 14.17494 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.cas.ptt.br-BGP.txt"...
+Start time file: 22:39:10 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.cas.ptt.br-BGP.rib.csv.gz" created.
+End time file: 03:38:08 
+Total execution time file: 4.982812 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.ce.ptt.br-BGP.txt"...
+Start time file: 03:38:08 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.ce.ptt.br-BGP.rib.csv.gz" created.
+End time file: 08:11:09 
+Total execution time file: 4.550258 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.cgb.ptt.br-BGP.txt"...
+Start time file: 08:11:09 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.cgb.ptt.br-BGP.rib.csv.gz" created.
+End time file: 15:04:05 
+Total execution time file: 6.882064 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.cpv.ptt.br-BGP.txt"...
+Start time file: 15:04:05 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.cpv.ptt.br-BGP.rib.csv.gz" created.
+End time file: 17:14:14 
+Total execution time file: 2.169222 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.cxj.ptt.br-BGP.txt"...
+Start time file: 17:14:14 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.cxj.ptt.br-BGP.rib.csv.gz" created.
+End time file: 17:58:39 
+Total execution time file: 44.42729 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.df.ptt.br-BGP.txt"...
+Start time file: 17:58:39 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.df.ptt.br-BGP.rib.csv.gz" created.
+End time file: 18:54:18 
+Total execution time file: 55.63562 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.gyn.ptt.br-BGP.txt"...
+Start time file: 18:54:18 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.gyn.ptt.br-BGP.rib.csv.gz" created.
+End time file: 19:49:10 
+Total execution time file: 54.86755 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.laj.ptt.br-BGP.txt"...
+Start time file: 19:49:10 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.laj.ptt.br-BGP.rib.csv.gz" created.
+End time file: 20:38:42 
+Total execution time file: 49.54124 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.lda.ptt.br-BGP.txt"...
+Start time file: 20:38:42 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.lda.ptt.br-BGP.rib.csv.gz" created.
+End time file: 20:39:04 
+Total execution time file: 21.98152 secs 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.mao.ptt.br-BGP.txt"...
+Start time file: 20:39:04 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.mao.ptt.br-BGP.rib.csv.gz" created.
+End time file: 21:29:54 
+Total execution time file: 50.82595 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.mgf.ptt.br-BGP.txt"...
+Start time file: 21:29:54 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.mgf.ptt.br-BGP.rib.csv.gz" created.
+End time file: 22:17:42 
+Total execution time file: 47.81077 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.mg.ptt.br-BGP.txt"...
+Start time file: 22:17:42 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.mg.ptt.br-BGP.rib.csv.gz" created.
+End time file: 22:57:46 
+Total execution time file: 40.06964 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.nat.ptt.br-BGP.txt"...
+Start time file: 22:57:46 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.nat.ptt.br-BGP.rib.csv.gz" created.
+End time file: 03:50:03 
+Total execution time file: 4.871292 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.pe.ptt.br-BGP.txt"...
+Start time file: 03:50:03 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.pe.ptt.br-BGP.rib.csv.gz" created.
+End time file: 05:00:22 
+Total execution time file: 1.172015 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.pr.ptt.br-BGP.txt"...
+Start time file: 05:00:22 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.pr.ptt.br-BGP.rib.csv.gz" created.
+End time file: 05:02:33 
+Total execution time file: 2.181012 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.rj.ptt.br-BGP.txt"...
+Start time file: 05:02:33 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.rj.ptt.br-BGP.rib.csv.gz" created.
+End time file: 08:07:15 
+Total execution time file: 3.078187 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.rs.ptt.br-BGP.txt"...
+Start time file: 08:07:15 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.rs.ptt.br-BGP.rib.csv.gz" created.
+End time file: 14:48:59 
+Total execution time file: 6.695717 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.sca.ptt.br-BGP.txt"...
+Start time file: 14:48:59 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.sca.ptt.br-BGP.rib.csv.gz" created.
+End time file: 15:29:28 
+Total execution time file: 40.48377 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.sc.ptt.br-BGP.txt"...
+Start time file: 15:29:28 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.sc.ptt.br-BGP.rib.csv.gz" created.
+End time file: 18:18:23 
+Total execution time file: 2.815082 hours 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.sjc.ptt.br-BGP.txt"...
+Start time file: 18:18:23 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.sjc.ptt.br-BGP.rib.csv.gz" created.
+End time file: 18:18:25 
+Total execution time file: 2.320017 secs 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.sjp.ptt.br-BGP.txt"...
+Start time file: 18:18:25 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.sjp.ptt.br-BGP.rib.csv.gz" created.
+End time file: 19:09:01 
+Total execution time file: 50.6079 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.sp.ptt.br-BGP.txt"...
+Start time file: 19:09:01 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.sp.ptt.br-BGP.rib.csv.gz" created.
+End time file: 19:16:02 
+Total execution time file: 7.01321 mins 
+
+Processing "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/rawdata/lg.vix.ptt.br-BGP.txt"...
+Start time file: 19:16:02 
+  |================================================================================================================================| 100%
+RIB table file "../../../../IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv4/processed/lg.vix.ptt.br-BGP.rib.csv.gz" created.
+End time file: 07:01:20 
+Total execution time file: 11.75506 hours 

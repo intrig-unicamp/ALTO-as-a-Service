@@ -1,0 +1,77 @@
+Start
+start function: Matrix_AS_Prefix [20150929_092905] 
+BAIPv4
+BAIPv6
+BELIPv4
+BELIPv6
+CASIPv4
+CASIPv6
+CEIPv4
+CEIPv6
+CGBIPv4
+CGBIPv6
+CPVIPv4
+CPVIPv6
+CXJIPv4
+CXJIPv6
+DFIPv4
+DFIPv6
+GYNIPv4
+GYNIPv6
+LAJIPv4
+LAJIPv6
+LDAIPv4
+LDAIPv6
+Not exists file: IXP-PTT-BR/20141208/PTTMetro-LG-Dataset/IPv6/alto/rib.table.lg.lda.ptt.br-BGP-IPv6.wau.csv.gz
+MAOIPv4
+MAOIPv6
+MGIPv4
+MGIPv6
+MGFIPv4
+MGFIPv6
+NATIPv4
+NATIPv6
+PEIPv4
+PEIPv6
+PRIPv4
+PRIPv6
+RJIPv4
+RJIPv6
+RSIPv4
+RSIPv6
+SCIPv4
+SCIPv6
+SCAIPv4
+SCAIPv6
+SJCIPv4
+SJCIPv6
+SJPIPv4
+SJPIPv6
+SPIPv4
+SPIPv6
+VIXIPv4
+VIXIPv6
+CSV file was created successfully !!!
+
+Total IPv4 Prefix: 563164
+IPv4 Prefix Considered: 556628
+IPv4 Prefix Considered (PCT): 98.839
+IPv4 Prefix OUT: 6536
+IPv4 Prefix OUT (PCT): 1.161
+
+CSV file was created successfully !!!
+Total IPv6 Prefix: 21666
+IPv6 Prefix Considered: 21427
+IPv6 Prefix Considered (PCT): 98.897
+IPv6 Prefix OUT: 239
+IPv6 Prefix OUT (PCT): 1.103
+
+Total Prefix: 584830
+Prefix Considered: 578055
+Prefix Considered (PCT): 98.842
+Prefix OUT: 13163
+Prefix OUT (PCT): 1.158
+Execution time: 00h:04m:16s:921ms
+Execution time (ms): 256921
+End function: Matrix_AS_Prefix
+End

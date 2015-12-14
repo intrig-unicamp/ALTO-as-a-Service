@@ -1,0 +1,7 @@
+Start
+start function: test_mininet_ping [20151022_130146] 
+File was created successfully !!!
+Execution time: 00h:00m:00s:91ms
+Execution time (ms): 91
+End function: test_mininet_ping
+End
