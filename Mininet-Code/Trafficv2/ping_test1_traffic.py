@@ -83,7 +83,7 @@ def startpings( host, hostsDST ):
                 start_traffic(h,t)
                 sleep(10)
 			
-                result = host.cmd('ping -c 100 %s' % dst.IP())
+                result = host.cmd('ping -c 30 %s' % dst.IP())
                 outputs = _parsePingFull( result )
                 sent, received, rttmin, rttavg, rttmax, rttdev = outputs
                 output( "*** Results: \n" )
